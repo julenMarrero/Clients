@@ -1,0 +1,20 @@
+<clients>
+  <client>
+    <name>Julen</name>
+    <surname>Marrero</surname>
+    <room>221</room>
+    <nif>77888222K</nif>
+  </client>
+   <client>
+    <name>Maria</name>
+    <surname>Garcia</surname>
+    <room>311</room>
+    <nif>76622718J</nif>
+  </client>
+   <client>
+    <name>Pepe</name>
+    <surname>Rodriguez</surname>
+    <room>112</room>
+    <nif>12345678I</nif>
+  </client>
+</clients>
